@@ -1,25 +1,9 @@
-// Virginia Tech Honor Code Pledge:
-//
-// This is a submission for project 2 (Spring 2025)
-// As a Hokie, I will conduct myself with honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of
-// those who do.
-// -- Kyler O'Rourke (korourke) 
-
 package game;
 
 import bag.SimpleBagInterface;
 import bag.Node;
 import java.util.Random;
 
-/**
- * simple linked bag that stores stuff using a linked list.
- * can add, remove, and pick random stuff.
- * 
- * @param <T> the type of elements stored in the bag
- * @author Kyler O'Rourke (korourke)
- * @version 2025-09-28
- */
 public class SimpleLinkedBag<T> implements SimpleBagInterface<T> {
     private Node<T> firstNode;
     private int numberOfEntries;
