@@ -1,10 +1,3 @@
-// Virginia Tech Honor Code Pledge:
-//
-// This is a submission for project 2 (Spring 2025)
-// As a Hokie, I will conduct myself with honor and integrity at all times.
-// I will not lie, cheat, or steal, nor will I accept the actions of
-// those who do.
-// -- Kyler O'Rourke (korourke)
 
 package game;
 
