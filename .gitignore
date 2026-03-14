@@ -1,0 +1,10 @@
+.gradle/
+.gradle-dist/
+build/
+bin/
+*.class
+.classpath
+.project
+.settings/
+gradle-8.6-bin.zip
+.DS_Store
